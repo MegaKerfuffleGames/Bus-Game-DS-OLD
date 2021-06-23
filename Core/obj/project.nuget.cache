@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6kSG2y/EwY/eUfyM+t/px/UlHIGPTET31FfCAg99C2UiPunCV9yOrUhuKpK3afD7GYMTV0HEicwJ1dGTvJrk3A==",
+  "success": true,
+  "projectFilePath": "E:\\Random Files\\08-Unity\\BDVR Dedicated Server\\Core\\BDVR Dedicated Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rober\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

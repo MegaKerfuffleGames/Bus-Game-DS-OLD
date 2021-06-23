@@ -1,0 +1,5 @@
+E:\Random Files\08-Unity\BDVR Dedicated Server\Builds\Latest\BDVR Dedicated Server.exe
+E:\Random Files\08-Unity\BDVR Dedicated Server\Builds\Latest\BDVR Dedicated Server.dll
+E:\Random Files\08-Unity\BDVR Dedicated Server\Builds\Latest\BDVR Dedicated Server.deps.json
+E:\Random Files\08-Unity\BDVR Dedicated Server\Builds\Latest\BDVR Dedicated Server.runtimeconfig.json
+E:\Random Files\08-Unity\BDVR Dedicated Server\Builds\Latest\BDVR Dedicated Server.pdb

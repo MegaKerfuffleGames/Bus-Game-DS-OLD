@@ -1,0 +1,13 @@
+E:\Random Files\08-Unity\BDVR Dedicated Server\BDVR Dedicated Server\bin\Debug\netcoreapp3.1\BDVR Dedicated Server.exe
+E:\Random Files\08-Unity\BDVR Dedicated Server\BDVR Dedicated Server\bin\Debug\netcoreapp3.1\BDVR Dedicated Server.deps.json
+E:\Random Files\08-Unity\BDVR Dedicated Server\BDVR Dedicated Server\bin\Debug\netcoreapp3.1\BDVR Dedicated Server.runtimeconfig.json
+E:\Random Files\08-Unity\BDVR Dedicated Server\BDVR Dedicated Server\bin\Debug\netcoreapp3.1\BDVR Dedicated Server.runtimeconfig.dev.json
+E:\Random Files\08-Unity\BDVR Dedicated Server\BDVR Dedicated Server\bin\Debug\netcoreapp3.1\BDVR Dedicated Server.dll
+E:\Random Files\08-Unity\BDVR Dedicated Server\BDVR Dedicated Server\bin\Debug\netcoreapp3.1\BDVR Dedicated Server.pdb
+E:\Random Files\08-Unity\BDVR Dedicated Server\BDVR Dedicated Server\obj\Debug\netcoreapp3.1\BDVR Dedicated Server.csprojAssemblyReference.cache
+E:\Random Files\08-Unity\BDVR Dedicated Server\BDVR Dedicated Server\obj\Debug\netcoreapp3.1\BDVR Dedicated Server.AssemblyInfoInputs.cache
+E:\Random Files\08-Unity\BDVR Dedicated Server\BDVR Dedicated Server\obj\Debug\netcoreapp3.1\BDVR Dedicated Server.AssemblyInfo.cs
+E:\Random Files\08-Unity\BDVR Dedicated Server\BDVR Dedicated Server\obj\Debug\netcoreapp3.1\BDVR Dedicated Server.csproj.CoreCompileInputs.cache
+E:\Random Files\08-Unity\BDVR Dedicated Server\BDVR Dedicated Server\obj\Debug\netcoreapp3.1\BDVR Dedicated Server.dll
+E:\Random Files\08-Unity\BDVR Dedicated Server\BDVR Dedicated Server\obj\Debug\netcoreapp3.1\BDVR Dedicated Server.pdb
+E:\Random Files\08-Unity\BDVR Dedicated Server\BDVR Dedicated Server\obj\Debug\netcoreapp3.1\BDVR Dedicated Server.genruntimeconfig.cache
