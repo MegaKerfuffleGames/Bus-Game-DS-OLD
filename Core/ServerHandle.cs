@@ -22,7 +22,7 @@ namespace BDVR_Dedicated_Server
             int _clientIdCheck = _packet.ReadInt();
             string _username = _packet.ReadString();
 
-            // below line causes exception
+
             if (_fromClient != _clientIdCheck)
             {
                 Debug.Log($"Player {_username} (ID {_fromClient}) has an incorrect client ID ({_clientIdCheck})");
@@ -34,7 +34,7 @@ namespace BDVR_Dedicated_Server
                 ServerSend.SendPlayerNames();
                 ServerSend.UpdateServerSettings();
             }
-            // connection established at this point
+            // Connection established at this point
         }
 
         public static void ReadyToSpawn(int _fromClient, Packet _packet)

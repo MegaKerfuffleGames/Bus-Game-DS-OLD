@@ -9,6 +9,7 @@ namespace BDVR_Dedicated_Server
 {
     class ServerSend
     {
+        #region Send Methods
         /* TCP/UDP PACKET SENDING */
         /// <summary>
         /// Send a packet to a specific client via TCP
@@ -87,8 +88,8 @@ namespace BDVR_Dedicated_Server
                     Server.clients[i].udp.SendData(_packet);
             }
         }
+        #endregion
 
-        /* METHODS TO SEND DATA TO SPECIFIC CLIENTS */
         /// <summary>
         /// Sends a welcome message to a specific client (via TCP)
         /// </summary>

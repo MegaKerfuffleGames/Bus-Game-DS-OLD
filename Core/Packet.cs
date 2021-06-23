@@ -1,8 +1,5 @@
 ﻿/*
-Packet class was retrieved from Tom Weiland's GitHub:
-https://github.com/tom-weiland/tcp-udp-networking/blob/tutorial-part2/GameServer/GameServer/Packet.cs
 
-This would not be possible without him, as this stuff is way beyond my current comprehension.
 */
 using System;
 using System.Collections.Generic;
@@ -11,8 +8,6 @@ using System.Numerics;
 
 namespace BDVR_Dedicated_Server
 {
-    // server/client packets holds the names of packets to send to the server/client
-    // 
     /// <summary>Sent from server to client.</summary>
     public enum ServerPackets
     {
@@ -34,7 +29,6 @@ namespace BDVR_Dedicated_Server
         sendServerSettings
     }
 
-    // actual packet definition
     public class Packet : IDisposable
     {
         private List<byte> buffer;
