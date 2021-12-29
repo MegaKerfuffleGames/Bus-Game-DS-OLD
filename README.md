@@ -1,2 +1,2 @@
-# BDVR-Dedicated-Server
- Dedicated server for BDVR multiplayer
+# Bus Game Dedicated Server (deprecated as of v0.7)
+The dedicated server for the old multiplayer implementation in Bus Game. It's based on [Tom Weiland's C# Networking tutorial series](https://www.youtube.com/watch?v=uh8XaC0Y5MA), and has been, admittedly, loosely modified to fit Bus Game's needs. Ultimately, this solution requires far too much low-level work and thinking that I am not interested in pursuing at this time. It is currently being replaced with a solution based on Unity's Netcode for GameObjects.
